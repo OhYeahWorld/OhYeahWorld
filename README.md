@@ -85,7 +85,9 @@ I'm mostly into backend development, software architecture and databases. Java i
   </tr>
 </table>
 
-<p align="right"><a href="https://github.com/OhYeahWorld?tab=repositories">more projects in the archive ↗</a></p>
+<p align="right">
+  <a href="https://github.com/OhYeahWorld?tab=repositories">more projects in the archive ↗</a>
+</p>
 
 ## `github stats`  📡
 
@@ -98,13 +100,23 @@ I'm mostly into backend development, software architecture and databases. Java i
 
 ## `contribution snake`  🐍
 
-- uses: Platane/snk@v3
-  with:
-    github_user_name: ${{ github.repository_owner }}
-    outputs: |
-      dist/github-snake.svg
-      dist/github-snake-dark.svg?palette=github-dark
-      dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9&color_background=#aaaaaa
+<div align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/OhYeahWorld/OhYeahWorld/output/github-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/OhYeahWorld/OhYeahWorld/output/github-snake.svg"
+    />
+    <img
+      src="https://raw.githubusercontent.com/OhYeahWorld/OhYeahWorld/output/github-snake.svg"
+      alt="Animated contribution snake"
+      width="100%"
+    />
+  </picture>
+</div>
 
 ## `currently into`  🥀
 
@@ -116,8 +128,12 @@ I'm mostly into backend development, software architecture and databases. Java i
 ## `elsewhere`  ⛓️
 
 <p align="center">
-  <a href="https://github.com/OhYeahWorld"><img src="https://img.shields.io/badge/GITHUB-OhYeahWorld-111111?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="https://github.com/OhYeahWorld?tab=repositories"><img src="https://img.shields.io/badge/ALL_PROJECTS-111111?style=for-the-badge&logo=github&logoColor=e34b4b" alt="All projects" /></a>
+  <a href="https://github.com/OhYeahWorld">
+    <img src="https://img.shields.io/badge/GITHUB-OhYeahWorld-111111?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://github.com/OhYeahWorld?tab=repositories">
+    <img src="https://img.shields.io/badge/ALL_PROJECTS-111111?style=for-the-badge&logo=github&logoColor=e34b4b" alt="All projects" />
+  </a>
 </p>
 
 <div align="center">
