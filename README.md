@@ -1,7 +1,7 @@
 <div align="center">
   <img src="assets/profile-banner.png" alt="Aydamir's dark grunge cyberpunk banner" width="100%" />
   <br />
-  <h1>AYDAMIR</h1>
+  <h1>AIDAMIR</h1>
   <p><b>backend developer · java enthusiast · linux enjoyer</b></p>
   <p><i>building things, breaking things, learning how they work.</i></p>
   <p>
