@@ -1,111 +1,112 @@
-# Hi, I'm Aydamir! 👋
+# 🦇 Hey, I'm Aydamir
 
-### Backend Developer | Java | Software Engineering
+### `backend developer` · `java enthusiast` · `software engineering`
 
-I'm a 3rd-year Computer Science and Computer Engineering student at **Plekhanov Russian University of Economics**.
+> *Writing code, breaking things, figuring out how they work.*
 
-I'm passionate about backend development, software architecture, databases, and distributed systems. I mainly focus on **Java development**, while also exploring other technologies and programming languages.
+I'm a 3rd-year Computer Science student at **Plekhanov Russian University of Economics**.
 
-- 🎓 Computer Science and Computer Engineering student.
-- ☕ Preferred language: **Java**.
-- ⚙️ Interested in Backend Development, REST APIs and Microservices.
-- 🗄️ Interested in SQL, relational databases and database design.
-- 🐧 Comfortable with Linux, Bash and command-line tools.
-- 🐳 Familiar with Docker and containerization.
-- 🚀 Always learning and building new things.
+Mostly into backend development, software architecture and databases. I enjoy building things, exploring how systems work under the hood and getting my hands dirty with new technologies.
+
+- ⛓️ Mainly focused on **Java & Backend Development**
+- 🕷️ Interested in REST APIs, microservices and distributed systems
+- 🥀 Into databases, SQL and software architecture
+- 🐈‍⬛ Linux enjoyer — terminal is home
+- ⚙️ Experimenting with different languages, tools and frameworks
+- 🎸 Always learning, always building something
 
 ---
 
-## 🛠️ Languages & Technologies
+## 💀 The Toolbox
 
-**Programming Languages**
+**Languages**
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
+![Java](https://img.shields.io/badge/Java-111111?style=for-the-badge&logo=openjdk&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-111111?style=for-the-badge&logo=kotlin&logoColor=white)
+![C](https://img.shields.io/badge/C-111111?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-111111?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-111111?style=for-the-badge&logo=csharp&logoColor=white)
 
 **Backend & Databases**
 
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge)
+![Spring](https://img.shields.io/badge/Spring-111111?style=for-the-badge&logo=spring&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-111111?style=for-the-badge&logo=dotnet&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111111?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-111111?style=for-the-badge&logo=mysql&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-111111?style=for-the-badge)
 
 **Tools & Environment**
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-111111?style=for-the-badge&logo=linux&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-111111?style=for-the-badge&logo=gnubash&logoColor=white)
+![Git](https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-111111?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
-## 📂 Featured Projects
+## 🕸️ Things I've Built
 
-### ☕ Java
+A few projects from my little corner of GitHub.
+
+### ☠️ Java / Backend
 
 **[BankDecisionMaker](https://github.com/OhYeahWorld/BankDecisionMaker)**
 
-Simulation model of customer service processes in a bank, developed using Java.
+A Java-based simulation model of customer service processes in a bank.
 
 **[BackendAiSafety](https://github.com/OhYeahWorld/BackendAiSafety)**
 
-Implementation of an internal AI component protection mechanism in a Java backend application.
+Implementation of an internal security mechanism for an AI component in a Java backend.
 
 **[LaundrySpringServer](https://github.com/OhYeahWorld/LaundrySpringServer)**
 
-Backend server for a laundry service. A project focused on exploring the Spring ecosystem and backend development.
+A backend server for a laundry service. Built while exploring the Spring ecosystem.
 
-### 🟣 Kotlin
+### 🦇 Kotlin
 
 **[Plesson](https://github.com/OhYeahWorld/Plesson)**
 
-A cross-platform university schedule application for Plekhanov Russian University of Economics, built with Kotlin Multiplatform.
+A cross-platform university schedule app for Plekhanov University, built with Kotlin Multiplatform.
 
-### 🔷 C# / .NET
+### 🎸 C# / .NET
 
 **[MusicServer](https://github.com/OhYeahWorld/MusicServer)**
 
-A music server application developed using the .NET ecosystem.
+A music server application built with the .NET ecosystem.
 
 ---
 
-## 📊 GitHub Statistics
+## 📈 GitHub Activity
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=OhYeahWorld&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Statistics" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OhYeahWorld&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=OhYeahWorld&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=ffffff&icon_color=aaaaaa&text_color=cccccc" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OhYeahWorld&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=cccccc" />
 </p>
 
 ---
 
-## 🎯 Areas of Interest
+## 🥀 Currently Into
 
-- Backend Development & Software Engineering
-- Java & Spring Ecosystem
-- Microservices Architecture
-- RESTful API Design
-- Database Management Systems
-- Distributed Systems
-- Enterprise Software Development
-- Linux & Containerization
+- Getting deeper into Java and Spring Boot
+- Exploring backend architecture and microservices
+- Learning more about distributed systems
+- Building projects and experimenting with new ideas
 
 ---
 
-## 🤝 Open to Opportunities
+## ⛓️ A Little About Me
 
-I'm constantly improving my skills, exploring new technologies and working on personal projects.
+I value curiosity, consistency and clean engineering. I enjoy solving problems, working with people who care about what they build, and learning something new along the way.
 
-I'm open to **internships, collaboration and junior backend development opportunities**.
+**Open to internships, collaborations and interesting backend projects.**
 
-Thanks for visiting my profile! 🚀
+Feel free to explore my repositories.
 
 ---
 
 <p align="center">
-  <i>Building, learning and improving — one project at a time.</i>
+  <code>STAY CURIOUS. KEEP BUILDING. BREAK THE ROUTINE.</code>
+  <br/>
+  🦇 ━━━━━━━━━━━━━━━━━━━━━━━━━ 🦇
 </p>
