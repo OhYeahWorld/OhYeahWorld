@@ -80,8 +80,17 @@ A music server application built with the .NET ecosystem.
 ## 📈 GitHub Activity
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=OhYeahWorld&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=ffffff&icon_color=aaaaaa&text_color=cccccc" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OhYeahWorld&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=cccccc" />
+  <img
+    src="https://github-stats-extended.vercel.app/api?username=OhYeahWorld&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=ffffff&icon_color=aaaaaa&text_color=cccccc"
+    height="170"
+    alt="GitHub Stats"
+  />
+
+  <img
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=OhYeahWorld&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=cccccc"
+    height="170"
+    alt="Top Languages"
+  />
 </p>
 
 ---
