@@ -98,9 +98,13 @@ I'm mostly into backend development, software architecture and databases. Java i
 
 ## `contribution snake`  🐍
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/OhYeahWorld/OhYeahWorld/output/github-snake-dark.svg" alt="Animated contribution snake" width="100%" />
-</div>
+- uses: Platane/snk@v3
+  with:
+    github_user_name: ${{ github.repository_owner }}
+    outputs: |
+      dist/github-snake.svg
+      dist/github-snake-dark.svg?palette=github-dark
+      dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9&color_background=#aaaaaa
 
 ## `currently into`  🥀
 
